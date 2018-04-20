@@ -1,0 +1,10 @@
+package com.sj4;
+
+public class MyThread extends Thread {
+
+	/**
+	 * ÷ÿ–¥run()∑Ω∑®
+	 */
+	public void run() {
+	}
+}
